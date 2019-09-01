@@ -1,0 +1,32 @@
+.menu-bar{
+    border-bottom: 1px solid gray;
+    padding-bottom: 3px;
+}
+
+.heading{
+    margin-top: 10px;
+    font-weight: 100;
+    color: aliceblue;
+}
+
+.menu-bar{
+    margin-top: 15px;    
+}
+
+.menu-bar div{
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.menu-item a:hover{
+    border-bottom: 1.5px solid yellow;
+    padding-bottom: 5px;
+}
+

@@ -1,0 +1,14 @@
+.btn-mail-custom{
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 35px;
+    border-radius: 25px !important;
+    background-color: #eeeeee;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+.fa-mail-custom{
+    margin-right: 5px;
+}

@@ -1,0 +1,19 @@
+.song-info{
+    display: inline-block;
+    color: aliceblue;
+}
+
+.row{
+    margin-left: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#main-body .row:hover{
+    cursor: pointer;
+}
+
+.row li{
+    padding-left: 0px;
+    font-weight: 200;
+}
