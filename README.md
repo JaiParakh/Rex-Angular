@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
 ## Project Screenshots
-![alt text](https://github.com/JaiParakh/Rex/blob/master/Screenshots/Screenshot%20(182).png)
+![alt text](https://github.com/JaiParakh/Rex-Angular/blob/master/Screenshots/Screenshot%20(182).png)
 
 ## Development server
 
